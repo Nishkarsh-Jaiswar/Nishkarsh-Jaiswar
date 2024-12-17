@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNkZG5yeWZqd3YzbzR5d2dyMzdiNXpkdWV6ZzlhZ3Y5OTVqNjh0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 ## Current Status
-- 🔭 I’m currently learning on **Java**.
+- 🔭 I’m currently learning **Java**.
 
 - 🌱 I’m currently diving more deeper into **Java full stack development and DSA and polishing my skills.**
 
